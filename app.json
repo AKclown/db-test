@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Relex",
+    "slug": "relex",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.relex.app",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.relex.app",
+      "allowBackup": false
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
